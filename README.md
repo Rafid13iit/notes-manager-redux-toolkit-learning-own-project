@@ -2,6 +2,12 @@
 
 A simple React application for managing notes using Redux Toolkit, TypeScript, and Tailwind CSS.
 
+# 🚀 Live App
+
+You can check out the live version of the project here:
+
+🔗 [Live App Link](https://notes-manager-redux-toolkit-learning-own.onrender.com/)
+
 ## Features
 
 - Create, read, update, and delete notes
